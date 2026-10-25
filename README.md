@@ -1,2 +1,2 @@
 # Algorithm
-Implementing Graph Algorithm
+Implementing Graph Algorithms
